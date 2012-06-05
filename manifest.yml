@@ -1,8 +1,8 @@
 ---
 name : twitter-2.0
-website : http://twitter.github.com/bootstrap
-git_url : git://github.com/gdagley/theme-twitter-2.0.git
-source_url : https://github.com/gdagley/theme-twitter-2.0.git
+website : http://bootswatch.com/cyborg/
+git_url : git://github.com/mattions/theme-twitter-2.0-cyborg.git
+source_url : https://github.com/mattions/theme-twitter-2.0-cyborg.git
 author:
-  name : "Jacob Thornton and Mark Otto"
-  website : http://twitter.github.com/bootstrap
+  name : "Jacob Thornton and Mark Otto, packaged by Michele Mattioni"
+  website : http://bootswatch.com/cyborg/
